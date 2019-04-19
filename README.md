@@ -6,4 +6,4 @@
 
 # Getting Started
 
-1. `python3 run.py`
+1. `python3 run.py none` or `python3 run.py linear` or `python3 run.py diamond`
